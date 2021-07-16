@@ -1,1 +1,2 @@
-# crush-the-zombies-test
+# zombie-crush-boilerplate
+boilerplate for crush the zombie game
